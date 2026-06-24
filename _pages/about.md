@@ -11,8 +11,11 @@ Buraya bir Giriş yazılabilir
 
 **Projelerimiz** 
 
+Bu proje, mimari kentsel dönüşüm.....
 
 <br/><img src='/images/proje_1.JPG'>"
+
+Diğer bir projemizde, ......
 
 <br/><img src='/images/proje_2.JPG'>"
 
