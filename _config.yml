@@ -29,9 +29,10 @@ author:
   location         : "İstanbul"
   email            : "none@example.org"
   phone            : "+90 XXX XXX XX XX"
+   instagram        : "donusumpartneri"
 
   # Social media
-  instagram        : # donusum_partneri
+  instagram        : "donusumpartneri"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
